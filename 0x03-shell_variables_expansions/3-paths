@@ -1,2 +1,2 @@
 #!/bin/bash
-COUNT=${#DIRS[@]}
+num_dirs=${#path_array[@]}
